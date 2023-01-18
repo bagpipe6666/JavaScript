@@ -11,4 +11,7 @@ async function run (){
     await promiseTimeout(2000);
     console.log("stop");
 }
+
+console.log('before run')
 run();
+console.log('after run')

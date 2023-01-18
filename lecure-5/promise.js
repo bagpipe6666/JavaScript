@@ -4,6 +4,7 @@ function promiseTimeout(ms){
     });
 }
 
+console.log('start')
 promiseTimeout(2000)
     .then(()=>{
         console.log("Done");
@@ -20,3 +21,4 @@ promiseTimeout(2000)
         console.log("Error");
  
     })
+console.log('End')
