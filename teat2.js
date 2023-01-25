@@ -72,6 +72,11 @@
 // console.log(uniqueChars2);
 // console.log(uniqueChars3);
 
-
+isValidIP = ("1.2.3.4")
+isValidIP = ("1.2.3")
+isValidIP = ("1.2.3.4.5")
+isValidIP = ("123.45.67.89")
+isValidIP = ("1.2.3.4")
+isValidIP = ("1.2.3.4")
 
 
